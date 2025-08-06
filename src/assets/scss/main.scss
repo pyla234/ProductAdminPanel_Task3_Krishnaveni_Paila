@@ -1,0 +1,18 @@
+.product-card {
+  &__title {
+    font-weight: bold;
+  }
+
+  &--selected {
+    border: 2px solid blue;
+  }
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.p-3 {
+  padding: 1rem;
+}
